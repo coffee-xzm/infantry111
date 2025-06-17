@@ -1,0 +1,42 @@
+[0.017s] Invoking command in '/home/wdr/ros_ws/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wdr/ros_ws/build/hik_camera -- -j8 -l8
+[0.098s] [ 25%] [32mBuilding CXX object CMakeFiles/hik_camera.dir/src/hik_camera_node.cpp.o[0m
+[2.761s] [ 50%] [32m[1mLinking CXX shared library libhik_camera.so[0m
+[2.865s] [ 50%] Built target hik_camera
+[2.875s] [ 75%] [32mBuilding CXX object CMakeFiles/hik_camera_node.dir/rclcpp_components/node_main_hik_camera_node.cpp.o[0m
+[5.177s] [100%] [32m[1mLinking CXX executable hik_camera_node[0m
+[5.264s] [100%] Built target hik_camera_node
+[5.267s] Invoked command in '/home/wdr/ros_ws/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wdr/ros_ws/build/hik_camera -- -j8 -l8
+[5.269s] Invoking command in '/home/wdr/ros_ws/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wdr/ros_ws/build/hik_camera
+[5.270s] -- Install configuration: ""
+[5.271s] -- Execute custom install script
+[5.271s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/lib/libFormatConversion.so
+[5.271s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/lib/libMVRender.so
+[5.272s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/lib/libMediaProcess.so
+[5.272s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/lib/libMvCameraControl.so
+[5.272s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/lib/libMvUsb3vTL.so
+[5.272s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/lib/hik_camera/hik_camera_node
+[5.272s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/environment/library_path.sh
+[5.273s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/environment/library_path.dsv
+[5.273s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/lib/libhik_camera.so
+[5.274s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/config/camera_info.yaml
+[5.274s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/config/camera_params.yaml
+[5.274s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/launch/hik_camera.launch.py
+[5.275s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/ament_index/resource_index/package_run_dependencies/hik_camera
+[5.275s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/ament_index/resource_index/parent_prefix_path/hik_camera
+[5.275s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/environment/ament_prefix_path.sh
+[5.275s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/environment/ament_prefix_path.dsv
+[5.276s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/environment/path.sh
+[5.276s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/environment/path.dsv
+[5.276s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/local_setup.bash
+[5.276s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/local_setup.sh
+[5.276s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/local_setup.zsh
+[5.277s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/local_setup.dsv
+[5.277s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/package.dsv
+[5.277s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/ament_index/resource_index/packages/hik_camera
+[5.277s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/ament_index/resource_index/rclcpp_components/hik_camera
+[5.277s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.278s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/cmake/ament_cmake_export_libraries-extras.cmake
+[5.278s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/cmake/hik_cameraConfig.cmake
+[5.278s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/cmake/hik_cameraConfig-version.cmake
+[5.278s] -- Up-to-date symlink: /home/wdr/ros_ws/install/hik_camera/share/hik_camera/package.xml
+[5.280s] Invoked command in '/home/wdr/ros_ws/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wdr/ros_ws/build/hik_camera
