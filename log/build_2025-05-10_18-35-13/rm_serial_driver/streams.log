@@ -1,8 +1,0 @@
-[0.011s] Invoking command in '/home/wdr/ros_ws/build/rm_serial_driver': AMENT_PREFIX_PATH=/home/wdr/ros_ws/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/wdr/ros_ws/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/wdr/ros_ws/install/auto_aim_interfaces/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32:/opt/MVS/lib/64:/opt/MVS/lib/32 PYTHONPATH=/home/wdr/ros_ws/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/wdr/ros_ws/build/rm_serial_driver -- -j8 -l8
-[0.049s] [ 20%] [32mBuilding CXX object CMakeFiles/rm_serial_driver.dir/src/rm_serial_driver.cpp.o[0m
-[9.227s] [ 40%] [32mBuilding CXX object CMakeFiles/rm_serial_driver.dir/src/crc.cpp.o[0m
-[9.249s] [ 60%] [32m[1mLinking CXX shared library librm_serial_driver.so[0m
-[9.823s] [ 60%] Built target rm_serial_driver
-[9.835s] [ 80%] [32mBuilding CXX object CMakeFiles/rm_serial_driver_node.dir/rclcpp_components/node_main_rm_serial_driver_node.cpp.o[0m
-[12.084s] [100%] [32m[1mLinking CXX executable rm_serial_driver_node[0m
-[12.170s] [100%] Built target rm_serial_driver_node
